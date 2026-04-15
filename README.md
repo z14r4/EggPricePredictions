@@ -1,7 +1,7 @@
 # IEOR 142A Spring 2025 – Egg Price Predictor Project
 
 ## Presentation
-https://eggstest.onrender.com
+https://eggpricepredictor.onrender.com
 
 [142A Final Project Report.pdf](https://github.com/user-attachments/files/20584825/142A.Final.Project.Report.pdf)
 
