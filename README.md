@@ -7,26 +7,21 @@ https://eggstest.onrender.com
 
 ## What This Project Is
 
-In this case, the team focused on **estimating egg prices** using a variety of machine learning models and time series forecasting techniques. The project not only predicts future prices but also analyzes which features are most correlated with fluctuations in egg pricing.
+A model that **estimates egg prices** using a variety of machine learning models and time series forecasting techniques. The project predicts future prices and analyzes which features are most correlated with fluctuations in egg pricing.
 
 ## Why This Project
 
 Egg pricing is influenced by a complex set of factors including supply chain disruptions, feed costs, consumer demand, outbreaks, and economic indicators. Understanding and forecasting egg prices has real implications for both consumers and agricultural suppliers.
 
-This project is useful as:
-
-* A case study in applying machine learning models from scratch.
-* A demonstration of combining both traditional statistical methods and ensemble learning (e.g., Random Forest).
-* A framework for analyzing feature importance in price prediction problems.
-* A practical example of time series forecasting using ARIMA and SARIMA.
-
 ## Project Uses
 
-1. Clone the repository and navigate through the notebook and script files to view model implementations.
-2. Review the data exploration and preprocessing steps for insights into handling real-world agricultural data.
-3. Open the final report (`report.pdf`) to see the full methodology, results, and visualizations.
-4. For time series forecasting implementation, check the sections on **ARIMA**, **SARIMA**, and **backtesting**.
-5. For machine learning models, explore the use of **Random Forest** and **Linear Regression**, including how feature importances were extracted and interpreted.
+1. A case study in applying machine learning models from scratch and combining both traditional statistical methods and ensemble learning (e.g., Random Forest). 
+* Anyone can clone the repository and navigate through the notebook and script files to view model implementations.
+* Review the data exploration and preprocessing steps for insights into handling real-world agricultural data
+2. A practical example of time series forecasting using ARIMA and SARIMA. For time series forecasting implementation, check the sections on **ARIMA**, **SARIMA**, and **backtesting**.
+3. To understand the fluctuation of egg prices leading up to Spring 2025. Open the final report (`report.pdf`) to see the full methodology, results, and visualizations.
+4. A framework for analyzing feature importance in price prediction problems. For machine learning models, explore the use of **Random Forest** and **Linear Regression**, including how feature importances were extracted and interpreted.
+
 
 This repository is for academic purposes and is not actively maintained, however:
 
@@ -41,6 +36,6 @@ This project was developed by a team of students in the Spring 2025 offering of 
 
 The team implemented all models from scratch and carried out all analysis, modeling, and presentation deliverables.
 
-The course is taught by faculty in the **Industrial Engineering and Operations Research (IEOR)** department, with guidance and feedback provided by the course staff.
+The course is taught by faculty in the **Industrial Engineering and Operations Research (IEOR)** department, with guidance and feedback provided by the course staff. Course professor: Phillip Kerger.
 
 Students involved: Anjana Hariprasad, Jordan Agresti, Xenia Chen, Nikita Mehendale, Ethan Rubin, and Ziara Vasquez.
